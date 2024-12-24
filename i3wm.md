@@ -20,4 +20,15 @@
   
   * Copy theme.rasi to ~/.local/share/rofi/themes/ and change the rofi theme theme from rofi themes option in the rofi menu and save the new theme with alt+a
 * You're done and now reboot
+# About screen tearing in i3wm 
+* i3wm package does not include a compositor so you will get screen tearing. In order to fix this issue you can do two things
+* One is install a picom(compositor) and and use my config
+  ```
+  sudo pacman -S picom
+  ```
+* Second one is if you have nvdia card and proprietary driver install nvidia-settings and enable force full composition pipeline in X server display configuration part
+  and disable flipping in opengl setting
+  ```
+  sudo pacman -S nvidia-settings
+  ```   
   
