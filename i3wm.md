@@ -17,6 +17,7 @@
   ```
 
   * Then copy folders in the .config folder and replace all. You should cut and paste the default config folder in a backup folder before copying my config files incase you get into some trouble.
-
-
+  
+  * Copy theme.rasi to ~/.local/share/rofi/themes/ and change the rofi theme theme from rofi themes option in the rofi menu and save the new theme with alt+a
+* You're done and now reboot
   
