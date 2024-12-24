@@ -13,7 +13,7 @@
   ```
 * Then clone this repo
   ```
-  git clone https://github.com/zistro/i3fornoob.git
+  git clone https://github.com/zistro/dotfiles.git
   ```
   * Then copy folders in the .config folder and replace all. You should cut and paste the default config folder in a backup folder before copying my config files incase you get into some trouble. Make all the .sh file executable with
      ```
