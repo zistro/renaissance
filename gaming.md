@@ -1,4 +1,4 @@
-#Gaming dependency
+**Gaming dependency**
 *wine
 *dbus
 *steam
