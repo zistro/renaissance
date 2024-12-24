@@ -45,4 +45,6 @@
 * lib32-v4l-utils
 * sqlite
 * lib32-sqlite
+
+  
 Specially check if lib32 graphics drivers are installed in you pc.
