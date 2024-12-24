@@ -57,4 +57,4 @@ sudo pacman -S dbus gnutls lib32-gnutls base-devel gtk2 gtk3 lib32-gtk2 lib32-gt
 sudo pacman -S steam lutris
 ```
   
-Specially check if lib32 graphics drivers are installed in you pc. In arch linux when installing steam it will ask will try to install lib32 drivers. You can install then if you want
+Specially check if lib32 graphics drivers are installed in you pc. In arch linux steam package includes that lib32 driver you can select it and install with steam.
