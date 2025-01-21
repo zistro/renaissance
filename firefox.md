@@ -49,4 +49,4 @@
 > media.ffmpeg.vaapi.enabled (true)
 
 
-Thanks you
+Thanks
