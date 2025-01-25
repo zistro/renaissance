@@ -1,8 +1,8 @@
 # Tips to make firefox faster
 
-## These are the tweaks I(flemtone,r/EverythingLegal) use to reduce the memory in Firefox.
+These are the tweaks that were used by flemtone(r/EverythingLegal) to reduce the memory in Firefox.
 
-### Type about:config in the address bar and click OK to continue, then change the following settings:
+* Type about:config in the address bar and click OK to continue, then change the following settings:
 
 * Set this to false if you have 2gb or under to stop saving pages in memory
 
