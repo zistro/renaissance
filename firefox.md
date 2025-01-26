@@ -21,7 +21,8 @@ These are the tweaks that were used by flemtone(r/EverythingLegal) to reduce the
 ```
 * Disable prefetch to stop browser making automatic connections for all links.
 
-``` network.prefetch-next (false)
+```
+ network.prefetch-next (false)
 ```
 * Pages loaded are stored in memory for back button usage, set to 0 to use only 32mb.
 
